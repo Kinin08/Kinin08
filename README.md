@@ -44,6 +44,7 @@
 
 ## 🚧 Projetos em desenvolvimento
 
-> 🔹 **[Pomodoro](https://github.com/Kinin08/Pomodoro)** — Um site pomodoro desenvolvido para melhorar o foco e o gerenciamento de tempo.
+> 🔹 **[Pomodoro](https://github.com/Kinin08/Pomodoro)** — Um site pomodoro desenvolvido para melhorar foco e produtividade.<br>  
+> 🔹 **[Xadrez](https://github.com/Kinin08/Xadrez)** — Um projeto de xadrez online para estudo de lógica e programação.<br>
 
 ---
