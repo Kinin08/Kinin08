@@ -1,12 +1,12 @@
-## Hi, Sou Welygton 👋
+## Hi, sou Welygton 👋
 
 <img align="right" alt="Kin-GIF" height="120" src="https://media1.tenor.com/m/hQEm51qMaS4AAAAd/agnes-tachyon-low-cortisol.gif">
 
 - 👨‍💻 Desenvolvedor **Backend Júnior**
-- 🚀 Pretendo trabalhar com **Node.js** ou **Java**
+- 🚀 Busco atuar com **Node.js** ou **Java**
 - 📚 Atualmente aprendendo **PHP**, **Node.js** e **C/C++**
-- ❤️ Apaixonado por **backend e infraestrutura**
-- 🎓 Estudante do **Ifsul - Campus Charqueadas**
+- ❤️ Apaixonado por **backend** e **infraestrutura**
+- 🎓 Estudante do **IFSul – Campus Charqueadas**
 
 ---
 
@@ -17,21 +17,22 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 
 ### ⚙️ Back-end
 <div style="display: inline_block">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ### 🛠️ Ferramentas
 <div style="display: inline_block">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
@@ -43,9 +44,9 @@
 
 ---
 
-## 🚧 Projetos em desenvolvimento
+## 🚧 Projetos em Desenvolvimento
 
-> 🔹 **[Pomodoro](https://github.com/Kinin08/Pomodoro)** — Um site pomodoro desenvolvido para melhorar foco e produtividade.<br>  
-> 🔹 **[Xadrez](https://github.com/Kinin08/Xadrez)** — Um projeto de xadrez online para estudo de lógica e programação.<br>
+> 🔹 **[Pomodoro](https://github.com/Kinin08/Pomodoro)** — Aplicação voltada para foco e produtividade.  
+> 🔹 **[Xadrez](https://github.com/Kinin08/Xadrez)** — Jogo de xadrez online para estudo de lógica e programação.
 
 ---
