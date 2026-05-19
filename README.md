@@ -2,9 +2,9 @@
 
 <img align="right" alt="Kin-GIF" height="120" src="https://media1.tenor.com/m/hQEm51qMaS4AAAAd/agnes-tachyon-low-cortisol.gif">
 
-- 👨‍💻 Desenvolvedor **Backend Júnior**
-- 🚀 Busco atuar com **Node.js** ou **Java**
-- 📚 Atualmente aprendendo **PHP**, **Node.js** e **C/C++**
+- 👨‍💻 Desenvolvedor júnior
+- 🚀 Busco atuar com **Node.js** ou **React**
+- 📚 Atualmente aprendendo **PHP**, **Node.js**, **Typescript** **React**
 - ❤️ Apaixonado por **backend** e **infraestrutura**
 - 🎓 Estudante do **IFSul – Campus Charqueadas**
 
