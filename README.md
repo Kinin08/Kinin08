@@ -46,7 +46,7 @@
 
 ## 🚧 Projetos em Desenvolvimento
 
-> 🔹 **[Pomodoro](https://github.com/Kinin08/Pomodoro)** — Aplicação voltada para foco e produtividade.  
-> 🔹 **[Xadrez](https://github.com/Kinin08/Xadrez)** — Jogo de xadrez online para estudo de lógica e programação.
+> 🔹 **[Contador de BPM](https://github.com/Kinin08/contadorBPM.git)** — Projeto com Node e Arduino para medir batimentos cardíacos em tempo real.  
+> 🔹 **[Salon Vision](https://github.com/Kinin08/salon-vision.git)** — Sistema para salão de beleza com informações, serviços e controle de vendas.
 
 ---
