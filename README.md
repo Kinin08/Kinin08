@@ -4,7 +4,7 @@
 
 - 👨‍💻 Desenvolvedor júnior
 - 🚀 Busco atuar com **Node.js** ou **React**
-- 📚 Atualmente aprendendo **PHP**, **Node.js**, **Typescript** **React**
+- 📚 Atualmente aprendendo **Node.js**, **Typescript**, **React** e **Tailwindcss**
 - ❤️ Apaixonado por **backend** e **infraestrutura**
 - 🎓 Estudante do **IFSul – Campus Charqueadas**
 
@@ -18,6 +18,7 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 ### ⚙️ Back-end
