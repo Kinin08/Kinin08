@@ -47,5 +47,6 @@
 
 > 🔹 **[Contador de BPM](https://github.com/Kinin08/contadorBPM.git)** — Projeto com Node e Arduino para medir frequência cardíaca em tempo real.  
 > 🔹 **[Salon Vision](https://github.com/Kinin08/salon-vision.git)** — Sistema para salão de beleza com serviços, administração e controle de vendas.
+> 🔹 **[Aureon](https://github.com/Kinin08/aureon.git)** — Plataforma web para reprodução de música com interface moderna e foco em experiência de áudio.
 
 ---
