@@ -1,52 +1,118 @@
-## 👋 Olá! Eu sou o Welygton  
+<div align="center">
 
-<img align="right" alt="Kin-GIF" height="130" src="https://media1.tenor.com/m/hQEm51qMaS4AAAAd/agnes-tachyon-low-cortisol.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=30&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Welygton+Martins+Tavares;Software+Developer;Construindo+Modern+Web+Applications;Learning+AI+%7C+Cloud+%7C+Cyber+Security)](https://git.io/typing-svg)
 
-- 👨‍💻 Desenvolvedor Júnior  
-- 🚀 Busco atuar com **Node.js** ou **React**  
-- 📚 Atualmente estudando **Node.js**, **Typescript**, **React** e **TailwindCSS**  
-- ❤️ Apaixonado por **backend**, arquitetura e infraestrutura  
-- 🎓 Estudante do **IFSul – Campus Charqueadas**
+</div>
+<img align="right" alt="Kin-GIF" height="180" src="https://media1.tenor.com/m/hQEm51qMaS4AAAAd/agnes-tachyon-low-cortisol.gif">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Kinin08-181717?style=for-the-badge&logo=github)](https://github.com/Kinin08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Welygton%20Martins-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/welygton-martins-210648417)
+[![Gmail](https://img.shields.io/badge/Gmail-welygtonm2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welygtonm2@gmail.com)
+
+### 💻 Software Developer
+
+Sou estudante de **Técnico em Informática** no **IFSul – Campus Charqueadas**, apaixonado por desenvolvimento de software e por transformar ideias em aplicações modernas.
+
+Atualmente concentro meus estudos em **React**, **Node.js**, **TypeScript** e **Three.js**, enquanto aprofundo meus conhecimentos em **Arquitetura de Software**, **Cloud Computing** e **Inteligência Artificial**.
+
+### 🚀 Objetivos
+
+- Desenvolvedor **Full Stack**
+- Especialização em **React** e **Node.js**
+- Aprender **Cloud Computing (AWS)**
+- Explorar **IA**
+- Contribuir para projetos Open Source
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+# 🛠️ Tecnologias
 
-### 🔤 Linguagens
-<div style="display: inline_block">
-  <img height="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-  <img height="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-  <img height="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-  <img height="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
-  <img height="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP">
-  <img height="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
-</div>
+## 💻 Linguagens
 
-### ⚙️ Frameworks e Ferramentas
-<div style="display: inline_block">
-  <img height="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-  <img height="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-  <img height="40" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript">
-  <img height="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
-  <img height="40" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS">
-  <img height="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
-  <img height="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-  <img height="40" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase">
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,cpp"/>
+</p>
 
 ---
 
-## 📱 Redes Sociais  
-<a href="https://instagram.com/wely_mt" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+## ⚛️ Frameworks & Bibliotecas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind"/>
+</p>
+
+---
+
+## 🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender"/>
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+### ❤️ Contador BPM
+
+Sistema desenvolvido com **Arduino** e **Node.js** para monitoramento de frequência cardíaca em tempo real.
+
+**Tecnologias**
+
+`Node.js` `Arduino` `C++`
+
+🔗 https://github.com/Kinin08/contadorBPM
+
+---
+
+### 💇 Salon Vision
+
+Sistema para gerenciamento de salões de beleza com controle de clientes, serviços e vendas.
+
+**Tecnologias**
+
+`JavaScript` `PHP` `MySQL`
+
+🔗 https://github.com/Kinin08/salon-vision
+
+---
+
+### 🎵 Melody
+
+Plataforma de música com interface moderna em **React + Three.js**, focada em experiência imersiva utilizando gráficos 3D.
+
+**Tecnologias**
+
+`React` `TypeScript` `Three.js`
+
+🔗 https://github.com/Kinin08/Melody
+
+---
+
+# 📫 Contato
+
+<p align="left">
+
+<a href="mailto:welygtonm2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
----
+<a href="https://www.linkedin.com/in/welygton-martins-210648417">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-## 🚧 Projetos em Desenvolvimento
+<a href="https://instagram.com/wely_mt">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-> 🔹 **[Contador de BPM](https://github.com/Kinin08/contadorBPM.git)** — Projeto com Node e Arduino para medir frequência cardíaca em tempo real.  
-> 🔹 **[Salon Vision](https://github.com/Kinin08/salon-vision.git)** — Sistema para salão de beleza com serviços, administração e controle de vendas.
-> 🔹 **[Melody](https://github.com/Kinin08/Melody.git)** — Plataforma web para reprodução de música com interface 3d e moderna com foco em experiência de áudio.
+</p>
 
 ---
