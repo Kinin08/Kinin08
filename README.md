@@ -30,7 +30,7 @@ Atualmente concentro meus estudos em **React**, **Node.js**, **TypeScript** e **
 ## 💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,cpp"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Atualmente concentro meus estudos em **React**, **Node.js**, **TypeScript** e **
 ## ⚛️ Frameworks & Bibliotecas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind"/>
 </p>
 
 ---
